@@ -1,0 +1,149 @@
+
+[
+    {
+        "user":{ 
+        "usernme":"shashi.verma@walkingtree.tech",
+        "password":"1234"
+        },
+
+        "elements":[
+            {
+                "books":[
+                    {
+                    "img":"./images.booksimg.png",
+                    "price":39,
+                    "title":"book title",
+                    "author":"shashi",
+                    "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                    
+                    },
+                    {
+                        "img":"./images.bookimage.png",
+                        "price":39,
+                        "title":"book title",
+                        "author":"shashi",
+                        "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                    },
+                    {
+                        "img":"./images.booksimg.png",
+                        "price":39,
+                        "title":"book title",
+                        "author":"shashi",
+                        "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                    },
+                    {
+                        "img":"./images.bookimage.png",
+                        "price":39,
+                        "title":"book title",
+                        "author":"shashi",
+                        "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                    }
+                ]
+            },
+            { 
+              "phones":[
+                {
+                "img":"./images.samsung.png",
+                "price":45000,
+                "title":"Samsung",
+                "seller":"shashi",
+                "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                },
+                {
+                    "img":"./images.iphone11.png",
+                    "price":50000,
+                    "title":"iphone 11 pro",
+                    "seller":"shashi",
+                    "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                },
+                {
+                    "img":"./images.iphone.png",
+                    "price":69000,
+                    "title":"iphone 11",
+                    "seller":"shashi",
+                    "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                },
+                {
+                    "img":"./images.samsung.png",
+                    "price":55000,
+                    "title":"Samsung j21",
+                    "seller":"shashi",
+                    "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                }
+             ]  
+            },
+            {
+                "sofa":[
+                    {
+                    "img":"./images.sofa.png",
+                    "price":55000,
+                    "title":"sofa",
+                    "seller":"shashi",
+                    "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                    },
+                    {
+                        "img":"./images.sofaL.png",
+                        "price":55000,
+                        "title":"sofa",
+                        "seller":"shashi",
+                        "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                    },
+                    {
+                        "img":"./images.stylesofa.png",
+                        "price":55000,
+                        "title":"modern sofa",
+                        "seller":"shashi",
+                        "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                    },
+                    {
+                        "img":"./images.sofa.png",
+                        "price":55000,
+                        "title":"sofa",
+                        "seller":"shashi",
+                        "description":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+                    }
+                ]
+            },
+            {
+                "chair":[
+                    {
+                    "img":"./images.chair.png",
+                    "price":55000,
+                    "title":"chair",
+                    "seller":"shashi",
+                    "description":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+                    },
+                    {
+                        "img":"./images.chairtab.png",
+                        "price":55000,
+                        "title":"chair with table",
+                        "seller":"shashi",
+                        "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                    },
+                    {
+                        "img":"./images.chairs.png",
+                        "price":55000,
+                        "title":"chair",
+                        "seller":"shashi",
+                        "description":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+                    },
+                    {
+                        "img":"./images.chairpurple.png",
+                        "price":55000,
+                        "title":"chair purple",
+                        "seller":"shashi",
+                        "description":"Voluptate dolore ad est sit. Officia ipsum duis consequat ex cillum ad elit ad ut laboris magna enim. Labore cillum do dolor anim exercitation ex. Consequat est commodo fugiat duis qui voluptate reprehenderit reprehenderit."
+                    }
+                ]
+            }
+        ],
+        "profile":{
+            "firstName":"shashi",
+            "lastName":"verma",
+            "phoneno":"7895169808",
+            "email":"shashi.verma@walkingtree.tech",
+            "img":"./images.man.png"
+        }
+
+    }
+]
